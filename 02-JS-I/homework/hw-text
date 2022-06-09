@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+-Variables: es un espacio donde puedes guardar datos, simulando una caja donde introduces datos esa es la Variable
+
+-Strings: es donde puedes guardar datos que se representan como un texto y se define con comillas simples o comillas dobles
+
+-Funciones: es un procedimiento en el das una serie de instrucciones para hacer una tarea o calcular un valor y se siempre deben tener un comienzo que es un valor de entrada y devuelve un valor que es la salida
+
+-Declaraciones (if): son instrucciones que se usan para ejecutar una condición en caso de ser verdadera
+
+-Valores booleanos (true, false): los booleanos pueden representar dos valores, verdadero o falso
+
