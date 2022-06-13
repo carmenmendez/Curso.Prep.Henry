@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`: es un ciclo que se repite cierto númnero de veces hasta que una condición en específico de como resultado false
+
+* `&&`: o 'Y" es un operador lógico que evalua ambas expresiones y devuelve como Verdadero si ambas son true, pero si uno o ambos es falso éste devolverá false
+
+*`||`: u 'O' es un operador que devolverá true si una o ambas expresiones es true, y devolverá false si ambas expresiones son false
+
+* `!`: es el signo de negación, se antepone a otro signo, número o cualquier otro y se convierte en negación
