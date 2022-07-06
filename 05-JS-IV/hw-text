@@ -1,0 +1,13 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: es un contenedor de propiedaddes como una cajita en donde puedes guardar una clave y valor y separados por una coma puedes guardar varios pares de clave: valor.
+
+	* Propiedades: es la característica de un objeto.
+
+	* Métodos: en los métodos los valores se pueden ejecutar como una función en el objeto y este nos rinde algún tipo de servivio durante el transcurso del programa. Es la acción que el objeto puede hacer.
+
+	* Bucle `for…in`: es la iteración sobre todas las propiedades enumerables de un objeto.
+
+	* Notación de puntos vs notación de corchetes: 
+	-Notación de puntos: es la forma más popular y utilizada de acceder a la propiedad de un objeto. Esto hace que el código sea más legible. La notación de puntos se utiliza con mayor frecuencia.
+	-Notación de corchetes: permite el acceso a propiedades que contienen caracteres especiales y selección de propiedades usando variables, también es posible modificar nuestro código
